@@ -29,8 +29,5 @@ return arr
 
 }
 
-let a 
 
-
-console.log(a)
 
